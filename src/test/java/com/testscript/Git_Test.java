@@ -1,7 +1,7 @@
 package com.testscript;
 
 import java.util.concurrent.TimeUnit;
-
+//BY HarishGowda
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
