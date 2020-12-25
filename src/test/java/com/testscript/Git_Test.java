@@ -20,7 +20,7 @@ public class Git_Test extends Chrome_Driver {
 	static WebDriver driver = null;
 	
 	//Path of input file
-			Xls_Reader Reader = new Xls_Reader("F:\\eclipse\\New Workspace\\Assignment_1\\src\\main\\java\\com\\input\\Input File.xlsx");
+			Xls_Reader Reader = new Xls_Reader("F:\\eclipse\\New Workspace\\Assessment_PeerXP\\src\\main\\java\\com\input\\Input File.xlsx");
 	
   @BeforeTest
   public void Before() {
